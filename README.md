@@ -16,3 +16,9 @@ This a small app to search for your favorite superheroes. You have between 30min
 - Ask for help if you have any doubts about the scope.
 - Search for the documentation of any of the libraries you will be using (formik, etc.).
   code
+
+## Setup
+
+1. `yarn install`
+2. Android: `npx react-native run-android`
+3. iOS: `npx pod-install && npx react-native run-ios`
